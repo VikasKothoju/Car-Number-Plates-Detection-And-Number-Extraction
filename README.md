@@ -31,6 +31,7 @@ Tkinter (GUI)
 📂 Folder Structure
 <img width="479" alt="image" src="https://github.com/user-attachments/assets/8e8742c7-f4b3-4642-acf4-cdf31c010420" />
 
+
 📸 Sample Use-Case
 Upload an image like car.jpg
 
