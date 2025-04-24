@@ -4,8 +4,8 @@ This Python project uses OpenCV, Haar Cascade, and Tesseract OCR to detect vehic
 
 🚀 Features
 Upload an image of a vehicle.
-<img width="1120" alt="image" src="https://github.com/user-attachments/assets/5c085cd7-8ae2-4a2a-89a8-8a425ad7ba1b" />
 
+<img width="1120" alt="image" src="https://github.com/user-attachments/assets/5c085cd7-8ae2-4a2a-89a8-8a425ad7ba1b" />
 
 Detect number plate using Haar Cascade classifier.
 
@@ -29,15 +29,14 @@ Pytesseract (OCR)
 Tkinter (GUI)
 
 📂 Folder Structure
-graphql
-Copy
-Edit
 project-root/
 ├── Car-Number-Plates-Detection-main/
 │   └── indian_license_plate.xml   # Haar Cascade for plate detection
 ├── main.py                        # GUI and detection logic
 ├── extracted_plate.jpg            # Saved cropped plate image
 └── detected_plate.txt             # Saved extracted number text
+
+
 📸 Sample Use-Case
 Upload an image like car.jpg
 
@@ -46,4 +45,7 @@ Plate is detected and highlighted
 Cropped number plate is displayed
 
 Text such as MH12AB1234 is extracted and shown
+
+![Screenshot 2025-04-23 124709](https://github.com/user-attachments/assets/76dce595-030a-4cf2-96a8-365a49e1fc00)
+
 
