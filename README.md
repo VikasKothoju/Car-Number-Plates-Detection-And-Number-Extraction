@@ -29,13 +29,7 @@ Pytesseract (OCR)
 Tkinter (GUI)
 
 📂 Folder Structure
-project-root/
-├── Car-Number-Plates-Detection-main/
-│   └── indian_license_plate.xml   # Haar Cascade for plate detection
-├── main.py                        # GUI and detection logic
-├── extracted_plate.jpg            # Saved cropped plate image
-└── detected_plate.txt             # Saved extracted number text
-
+<img width="479" alt="image" src="https://github.com/user-attachments/assets/8e8742c7-f4b3-4642-acf4-cdf31c010420" />
 
 📸 Sample Use-Case
 Upload an image like car.jpg
